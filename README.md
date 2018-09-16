@@ -1,1 +1,1 @@
-# smartcook
+# Smart-Cook
